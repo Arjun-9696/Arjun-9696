@@ -1,3 +1,4 @@
+<img src="./img/final.gif">
 <h1 align="center">Hi 👋, I'm Mallikarjun Haralalli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
