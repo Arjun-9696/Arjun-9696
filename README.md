@@ -1,4 +1,5 @@
-<img src="./img/final.gif">
+<p align="center"><img height="380" width="950" src="./img/final.gif"></p>
+
 <h1 align="center">Hi 👋, I'm Mallikarjun Haralalli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
