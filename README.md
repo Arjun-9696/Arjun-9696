@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/14I8Um5jP1cXnY7zRmnm6bN8v_0Ek_LVq/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny🤣**
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mallik_arjun009?t=k2uzn6d9j3vdw4nhfdud-a&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallik_arjun009?t=k2uzn6d9j3vdw4nhfdud-a&s=08" height="30" width="40" /></a>
