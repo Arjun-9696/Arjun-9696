@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun Haralalli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
-<p align="center"><img height="200" width="250" src="./img/hi.gif">
+<p align="center"><img height="200" width="220" src="./img/hi.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-9696&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-9696" /> </p>
 <h3>About me:</h3> 
