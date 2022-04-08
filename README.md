@@ -11,7 +11,7 @@
 
 
 - 🔍 I’m looking forward to kickstarting my career as a <strong>software engineer</strong> with a firm driven by technology 
-- 🌱 I’m currently learning **ReactJS & Redux**
+- 🌱 I’m currently learning **React JS & Redux**
 
 - 💬 Ask me about **Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
 
