@@ -18,6 +18,7 @@
 - 📫 How to reach me **mallikarjunharalalli@gmail.com**
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/14I8Um5jP1cXnY7zRmnm6bN8v_0Ek_LVq/view?usp=sharing)
+- 👨‍💻 All of my projects are available at my  [**Portfolio**](https://mallik-arjun.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny🤣**
 <hr>
@@ -36,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-9696&show_icons=true&locale=en" alt="arjun-9696" /></p> -->
 <hr>
-
+<h3 align="center">By the way here are some of my statistics 🚀</h3>
 <p align="center">
   <a href="https://github.com/arjun-9696">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-9696&show_icons=true&border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
