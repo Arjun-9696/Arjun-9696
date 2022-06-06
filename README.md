@@ -46,4 +46,7 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-9696&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&border=true" />
   </a>
 </p>
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-9696&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&border=true" alt="arjun-9696" /></p> -->
