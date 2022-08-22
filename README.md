@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mallikarjunharalalli@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/14I8Um5jP1cXnY7zRmnm6bN8v_0Ek_LVq/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1ATEKcXpbY1HOXpKH7CnELtus6578_zgP/view?usp=sharing)
 - 👨‍💻 All of my projects are available at my  [**Portfolio**](https://mallik-arjun.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny🤣**
