@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mallikarjunharalalli@gmail.com**
 
-- 📄 Know about my experiences [**Resume**]([https://drive.google.com/file/d/1ATEKcXpbY1HOXpKH7CnELtus6578_zgP/view?usp=sharing](https://www.canva.com/design/DAE3dmimXC8/FovWfm0yGEzfCAplmMKxTw/view?utm_content=DAE3dmimXC8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- 📄 Know about my experiences [**Resume**](https://www.canva.com/design/DAE3dmimXC8/FovWfm0yGEzfCAplmMKxTw/view?utm_content=DAE3dmimXC8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 👨‍💻 All of my projects are available at my  [**Portfolio**](https://mallik-arjun.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny🤣**
