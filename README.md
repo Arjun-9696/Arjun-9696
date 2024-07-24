@@ -3,6 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Mallikarjun Haralalli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p  align="center">
+Experienced full-stack web developer with three years in software development and a comprehensive understanding of software engineering practices. Passionate frontend developer from India with a keen eye for design and a commitment to creating intuitive, high-quality web applications. Dedicated to learning new technologies and contributing to organizational growth by embracing challenges and delivering responsive user experiences.
+</p>
 <br>
 <p align="center"><img height="200" width="220" src="./img/hi.gif">
 </p>
@@ -11,9 +14,9 @@
 
 
 - 🔍 I’m looking forward to kickstarting my career as a <strong>software engineer</strong> with a firm driven by technology 
-- 🌱 I’m currently learning **React JS & Redux**
+- 🌱 I’m experienced in **Next JS, React JS ,Node JS, Express JS Tailwind CSS**
 
-- 💬 Ask me about **Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
+- 💬 Ask me about **Gen AI, Deep Lerning, machine Learning, Next JS, Tailwind CSS, Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
 
 - 📫 How to reach me **mallikarjunharalalli@gmail.com**
 
