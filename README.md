@@ -20,7 +20,7 @@ Experienced full-stack web developer with three years in software development an
 
 - 📫 How to reach me **mallikarjunharalalli@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://www.canva.com/design/DAFzZJZy1rc/fsFFTbwr0mGCOEqMIjJ8Fw/edit?utm_content=DAFzZJZy1rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1iJde_z0G2PDeBB6CtKTaAqnjbPMam5t3/view?usp=sharing)
 - 👨‍💻 All of my projects are available at my  [**Portfolio**](https://mallik-arjun.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny🤣**
