@@ -85,6 +85,13 @@ Experienced full-stack web developer with three years in software development an
 <hr>
 <h3 align="center">By the way here are some of my statistics 🚀</h3>
 <p align="center">
+
+![Mallikarjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-9696&show_icons=true&theme=radical)
+
+![Mallikarjun's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Arjun-9696&theme=radical&hide_border=true)
+
+![Mallikarjun's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-9696&layout=compact&theme=radical&hide_border=true)
+
   <a href="https://github.com/arjun-9696">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-9696&show_icons=true&border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
