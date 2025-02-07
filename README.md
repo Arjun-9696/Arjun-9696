@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun H</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p  align="center">
-Experienced full-stack web developer with three years in software development and a comprehensive understanding of software engineering practices. Passionate frontend developer from India with a keen eye for design and a commitment to creating intuitive, high-quality web applications. Dedicated to learning new technologies and contributing to organizational growth by embracing challenges and delivering responsive user experiences.
+Experienced Full-Stack Developer & Security Engineer with 3+ years in software development, specializing in secure, scalable web applications. Passionate about frontend development with a keen eye for design, while integrating cybersecurity best practices to build resilient and high-performing systems. and Always learning, innovating, and embracing new challenges to build secure, responsive, and impactful digital experiences.
 </p>
 <br>
 <p align="center"><img height="200" width="220" src="./img/hi.gif">
