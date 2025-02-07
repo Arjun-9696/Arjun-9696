@@ -13,17 +13,17 @@ Experienced full-stack web developer with three years in software development an
 <h3>About me:</h3> 
 
 
-- 🔍 I’m looking forward to kickstarting my career as a <strong>software engineer</strong> with a firm driven by technology 
-- 🌱 I’m Learning **Python, GenAI, Llama models**
+- 🔍 I’m looking forward to kickstarting my career as a <strong> Cybersecurity Analyst to mastering advanced cybersecurity technics and ethical hacking </strong> with a firm driven by technology 
+- 🌱 I’m Learning **Cloud Security best practices with AWS, Azure and Zscaler**
 
-- 💬 Ask me about **Gen AI, Deep Lerning, machine Learning, Next JS, Tailwind CSS, Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
+- 💬 Ask me about **Cyber security, Ethical Hacking, Cloud Security, React and Next JS, Tailwind CSS, Data Structures Algorithm, JavaScript, MongoDB, DevSecOps, NodeJS**
 
 - 📫 How to reach me **mallikarjunharalalli@gmail.com**
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1iJde_z0G2PDeBB6CtKTaAqnjbPMam5t3/view?usp=sharing)
 - 👨‍💻 All of my projects are available at my  [**Portfolio**](https://mallik-arjun.vercel.app/)
 
-- ⚡ Fun fact **I think I am funny🤣**
+- ⚡ Fun fact **The only thing I leave unprotected is my love for Cyber security🤣**
 <hr>
 
 <h3 align="center">Connect with me:</h3>
