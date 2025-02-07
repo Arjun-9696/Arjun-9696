@@ -13,7 +13,7 @@ Experienced full-stack web developer with three years in software development an
 <h3>About me:</h3> 
 
 
-- 🔍 I’m looking forward to kickstarting my career as a <strong> Cybersecurity Analyst to mastering advanced cybersecurity technics and ethical hacking </strong> with a firm driven by technology 
+- 🔍 I’m looking forward to kickstarting my career as a <strong> Cybersecurity Analyst to mastering advanced cybersecurity techniques and ethical hacking </strong> with a firm driven by technology 
 - 🌱 I’m Learning **Cloud Security best practices with AWS, Azure and Zscaler**
 
 - 💬 Ask me about **Cyber security, Ethical Hacking, Cloud Security, React and Next JS, Tailwind CSS, Data Structures Algorithm, JavaScript, MongoDB, DevSecOps, NodeJS**
