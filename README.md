@@ -1,7 +1,7 @@
 <!-- <p align="center"><img height="380" width="850" src="./img/final.gif"></p> -->
 <br>
 
-<h1 align="center">Hi 👋, I'm Mallikarjun Haralalli</h1>
+<h1 align="center">Hi 👋, I'm Mallikarjun H</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p  align="center">
 Experienced full-stack web developer with three years in software development and a comprehensive understanding of software engineering practices. Passionate frontend developer from India with a keen eye for design and a commitment to creating intuitive, high-quality web applications. Dedicated to learning new technologies and contributing to organizational growth by embracing challenges and delivering responsive user experiences.
