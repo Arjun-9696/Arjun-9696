@@ -20,7 +20,7 @@ Experienced Full-Stack Developer & Security Engineer with 2+ years in software d
 
 - 📫 How to reach me **mallikarjunharalalli@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1iJde_z0G2PDeBB6CtKTaAqnjbPMam5t3/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1ZwyFe8Ekof_c0wi1eXiN7PbCOBwft8vS/view?usp=drivesdk)
 - 👨‍💻 All of my projects are available at my  [**Portfolio**](https://mallik-arjun.vercel.app/)
 
 - ⚡ Fun fact **The only thing I leave unprotected is my love for Cyber security🤣**
